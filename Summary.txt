@@ -1,0 +1,4 @@
+Data Pre-Processing,performed data inspection and data cleaning (remove null values, drop unnecessary columns, drop duplicate values, fill Nan values) to bring data into correct form.
+Performed data analysis to find top 10 highest profitable movie.
+Did analysis to find top 250 movies with highest IMDb rating and top 10 best directors.
+Also found top 5 combination of popular genre and critic favourite and audience favourite actors.
